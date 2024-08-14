@@ -1,8 +1,8 @@
 package httpclient
 
 import (
-	"zhipuai-go/consts"
-	"zhipuai-go/utils"
+	"github.com/hongwei90/zhipuai-go/consts"
+	"github.com/hongwei90/zhipuai-go/utils"
 	"bufio"
 	"bytes"
 	"encoding/json"

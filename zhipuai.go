@@ -1,8 +1,8 @@
 package zhipuai
 
 import (
-	"zhipuai-go/consts"
-	"zhipuai-go/httpclient"
+	"github.com/hongwei90/zhipuai-go/consts"
+	"github.com/hongwei90/zhipuai-go/httpclient"
 )
 
 var (

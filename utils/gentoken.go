@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"zhipuai-go/consts"
+	"github.com/hongwei90/zhipuai-go/consts"
 	"fmt"
 	"strings"
 	"time"
