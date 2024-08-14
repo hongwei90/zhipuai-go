@@ -1,4 +1,4 @@
-module zhipuai-go
+module github.com/hongwei90/zhipuai-go
 
 go 1.22.1
 
